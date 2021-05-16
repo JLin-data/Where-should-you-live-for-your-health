@@ -4,10 +4,11 @@ Authors: Melissa Collier, Norman Hong, Jingjing Lin Yeqing Liu, Xiner Ning, Arsh
 In this project, we aim to investigate how your choice in residence may be impacting your health by exploring common data science techniques.
 
 --------
+If you want to check the result directly, please click -->  
 
-** If you want to check the result directly, check --> [Final Demo](http://arshia.georgetown.domains/ANLY501/Project.html)
+### ***********  [Final Demo](http://arshia.georgetown.domains/ANLY501/Project.html)  ************
+--------
 
-if you want to explore the developing files: check below 
 
 ## Datasets 
 1. Water data 
