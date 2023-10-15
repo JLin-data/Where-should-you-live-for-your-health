@@ -6,7 +6,7 @@ In this project, we aim to investigate how your choice in residence may be impac
 --------
 Check the result directly? please click 👇
 
-### ***************************  [Final Demo](http://arshia.georgetown.domains/ANLY501/Project.html)  ****************************
+### ***************************  [Final Demo](https://jingjingl.georgetown.domains/501Demo.html)  ****************************
 --------
 
 
